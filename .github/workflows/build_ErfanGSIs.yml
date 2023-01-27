@@ -14,9 +14,9 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
-  ROM_NAME: MIUI
-  BUILD_TYPE: ab
+  ROM_URL: https://gauss-componentotacostmanual-cn.allawnfs.com/remove-fdf11cbde744afa929bb2892c2111fdf/component-ota/22/12/30/8bb11a9923944f4fb8eff21677b1564e.zip
+  ROM_NAME: ClorOS
+  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
